@@ -1,0 +1,7 @@
+{
+  "name": "Priya Desktop Companion",
+  "description": "A reactive anime companion that monitors stats and responds to system commands.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
